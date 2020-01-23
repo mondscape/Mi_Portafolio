@@ -12,7 +12,7 @@
 }
 
 .fondo__navbar {
-    background-color:#FF8A80;
+    background-color: #AC8DAD;
     height: 80px;
     width: 100%;
     
@@ -24,15 +24,27 @@
 
 body{
     font-family: 'Roboto', sans-serif;
+    background-color:#F2E9E4 ;
 }
 .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link{
-    color:#212121;
-    font-weight: 500;
+    color:#F2E9E4;;
 }
-.navbar-light .navbar-nav .nav-link{
-    color: #212121;
-    font-weight: 400;
+.navbar-light,.navbar-nav,.nav-link {
+    color: #F2E9E4;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+
+}
+.foto-portada{
+    margin-top: 40px;
 }
 .nombre-titulo{
     font-family: 'Archivo Black', sans-serif;
+}
+col,.nombre-titulo{
+    margin-top: 150px;
+    text-align: left;
+}
+.parrafo-header{
+    margin-top: 20px;
 }
