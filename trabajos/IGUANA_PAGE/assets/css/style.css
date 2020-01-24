@@ -1,0 +1,122 @@
+
+nav {
+    background: black;
+    color: white;
+    position: static;
+    top: 0em;
+    left: 0em;
+    width: 100% ;
+    height: 73px;
+    margin-bottom: 0px;
+   
+    ;
+}
+
+nav
+    .titulo_iguana {
+        text-align: center;
+        font-size: 50pt;
+        font: Medium 50px/59px ;
+        letter-spacing: 0;
+        color: #FFFFFF;
+        font-weight: 300;
+        margin-top: 10px;
+        margin-bottom: 20px;
+
+    }
+    
+
+header {
+    background-image:url(../img/bg-header.jpg);
+    height: 727px;
+    width: 100%;
+
+}
+body {
+    font-family: 'Raleway', sans-serif ;
+    background-color: black;
+}
+.centrado{
+    width: 75% ;
+    margin: 0 auto;
+}
+.iguana_verde, .parrafo{
+    color: #FFFFFF;
+    display: inline-block;
+}
+.parrafo {
+    top: 876px;
+    left: 150px;
+    width: 475px;
+    height: 197px; 
+    font: 1rem;
+    vertical-align: left;
+    font-weight: 100;
+;
+}
+.iguana_verde{
+    vertical-align: right;
+    width: 399px;
+    height: 237px;
+    top: 845px;
+    left: 731px;
+}
+#caracteristicas {
+    background-color: #1E1A13;
+    width: 100%;
+    height: 348px;
+}
+.titulo_caracteristica {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 38px;
+    font-weight: 500;
+}
+
+#iconos {
+    text-decoration-line: center;
+    color: white;
+}
+
+aside div {
+    display: inline-block;
+    padding: 20px 0;
+    margin: 10px;
+}
+aside {
+    text-align: center;
+}
+ aside .ojo,.pacific,.cambian-de-color {
+     margin-left: 100px;
+     margin-right: 100px;
+ }
+
+footer{
+    background-color: #1E1A13;
+    color: #FFFFFF;
+    font-weight: 100;
+    width: 100%;
+    height: 102px;
+    vertical-align: center;
+    margin-top: 10px;
+}
+.link-pagina{
+    text-align: center;
+}
+
+h3{
+    font-weight: 100;
+}
+section div{
+    
+    display: inline-flex;
+    max-width: 100%;
+    height: auto;
+    width: auto/9;
+}
+
+
+.iguana-1,.iguana-2,.iguana-3{
+    height: 260px;
+    width: auto;
+}
